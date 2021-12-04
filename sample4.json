@@ -1,5 +1,4 @@
 {
-  "people" : [
     {
        "firstName": "Joe",
        "lastName": "Jackson",
@@ -98,5 +97,4 @@
        "age": 19,
        "number": "1122339988"
     }
-  ]
 }
