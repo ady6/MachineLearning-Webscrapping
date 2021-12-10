@@ -1,4 +1,11 @@
 [{
+        "id_Alumno": 0,
+        "nombre": " Pepe",
+        "apellidos1": " Sánchez",
+        "apellidos2": " Ramírez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "22/11/1989"
+    }, {
         "id_Alumno": 1,
         "nombre": " Leo",
         "apellidos1": " Hernández",
