@@ -1,0 +1,701 @@
+[{
+        "id_Alumno": 1,
+        "nombre": " Leo",
+        "apellidos1": " Hernández",
+        "apellidos2": " Fernández",
+        "grupo": "DAM",
+        "fecha_nacimiento": "03/04/1994"
+    }, {
+        "id_Alumno": 2,
+        "nombre": " Juan",
+        "apellidos1": " Soto",
+        "apellidos2": " Márquez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "02/06/1991"
+    }, {
+        "id_Alumno": 3,
+        "nombre": " Thiago",
+        "apellidos1": " Santana",
+        "apellidos2": " Ferrer",
+        "grupo": "SMR",
+        "fecha_nacimiento": "03/06/1992"
+    }, {
+        "id_Alumno": 4,
+        "nombre": " Paula",
+        "apellidos1": " Sánchez",
+        "apellidos2": " Guerrero",
+        "grupo": "SMR",
+        "fecha_nacimiento": "25/05/1999"
+    }, {
+        "id_Alumno": 5,
+        "nombre": " Sergio",
+        "apellidos1": " Prieto",
+        "apellidos2": " Mora",
+        "grupo": "DAM",
+        "fecha_nacimiento": "19/01/1993"
+    }, {
+        "id_Alumno": 6,
+        "nombre": " Adam",
+        "apellidos1": " Núñez",
+        "apellidos2": " Mora",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "01/11/1997"
+    }, {
+        "id_Alumno": 7,
+        "nombre": " Gonzalo",
+        "apellidos1": " Cortes",
+        "apellidos2": " Martín",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "14/05/1995"
+    }, {
+        "id_Alumno": 8,
+        "nombre": " Alejandra",
+        "apellidos1": " Carmona",
+        "apellidos2": " Suárez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "16/10/1986"
+    }, {
+        "id_Alumno": 9,
+        "nombre": " Hugo",
+        "apellidos1": " Medina",
+        "apellidos2": " Jiménez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "06/08/1993"
+    }, {
+        "id_Alumno": 10,
+        "nombre": " Diego",
+        "apellidos1": " Gallardo",
+        "apellidos2": " Prieto",
+        "grupo": "DAM",
+        "fecha_nacimiento": "16/11/1997"
+    }, {
+        "id_Alumno": 11,
+        "nombre": " Miguel",
+        "apellidos1": " Rodríguez",
+        "apellidos2": " Flores",
+        "grupo": "SMR",
+        "fecha_nacimiento": "05/07/1988"
+    }, {
+        "id_Alumno": 12,
+        "nombre": " Inés",
+        "apellidos1": " Caballero",
+        "apellidos2": " Aguilar",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "03/04/1993"
+    }, {
+        "id_Alumno": 13,
+        "nombre": " Daniel",
+        "apellidos1": " Martínez",
+        "apellidos2": " Ramos",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "03/01/1982"
+    }, {
+        "id_Alumno": 14,
+        "nombre": " Noa",
+        "apellidos1": " Molina",
+        "apellidos2": " Soto",
+        "grupo": "SMR",
+        "fecha_nacimiento": "03/01/1999"
+    }, {
+        "id_Alumno": 15,
+        "nombre": " Lara",
+        "apellidos1": " Molina",
+        "apellidos2": " Iglesias",
+        "grupo": "DAM",
+        "fecha_nacimiento": "12/06/1996"
+    }, {
+        "id_Alumno": 16,
+        "nombre": " Enzo",
+        "apellidos1": " Morales",
+        "apellidos2": " Núñez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "28/06/1999"
+    }, {
+        "id_Alumno": 17,
+        "nombre": " Alberto",
+        "apellidos1": " Ramos",
+        "apellidos2": " Marín",
+        "grupo": "SMR",
+        "fecha_nacimiento": "20/01/1987"
+    }, {
+        "id_Alumno": 18,
+        "nombre": " Ariadna",
+        "apellidos1": " Morales",
+        "apellidos2": " Crespo",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "17/02/1985"
+    }, {
+        "id_Alumno": 19,
+        "nombre": " Vera",
+        "apellidos1": " Vázquez",
+        "apellidos2": " Nieto",
+        "grupo": "DAM",
+        "fecha_nacimiento": "02/05/1984"
+    }, {
+        "id_Alumno": 20,
+        "nombre": " Candela",
+        "apellidos1": " Martínez",
+        "apellidos2": " Suárez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "17/05/1995"
+    }, {
+        "id_Alumno": 21,
+        "nombre": " Izan",
+        "apellidos1": " Gallego",
+        "apellidos2": " Suárez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "26/02/1997"
+    }, {
+        "id_Alumno": 22,
+        "nombre": " Alejandro",
+        "apellidos1": " Medina",
+        "apellidos2": " León",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "29/11/1988"
+    }, {
+        "id_Alumno": 23,
+        "nombre": " Blanca",
+        "apellidos1": " Crespo",
+        "apellidos2": " Méndez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "17/08/1985"
+    }, {
+        "id_Alumno": 24,
+        "nombre": " Alma",
+        "apellidos1": " Moya",
+        "apellidos2": " Díaz",
+        "grupo": "SMR",
+        "fecha_nacimiento": "12/11/1986"
+    }, {
+        "id_Alumno": 25,
+        "nombre": " Oliver",
+        "apellidos1": " Medina",
+        "apellidos2": " Méndez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "31/10/1993"
+    }, {
+        "id_Alumno": 26,
+        "nombre": " Carlota",
+        "apellidos1": "García",
+        "apellidos2": " Medina",
+        "grupo": "SMR",
+        "fecha_nacimiento": "12/03/1998"
+    }, {
+        "id_Alumno": 27,
+        "nombre": " Víctor",
+        "apellidos1": " Carrasco",
+        "apellidos2": " Vidal",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "12/04/1991"
+    }, {
+        "id_Alumno": 28,
+        "nombre": " Manuel",
+        "apellidos1": " Moya",
+        "apellidos2": " Benítez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "21/04/1995"
+    }, {
+        "id_Alumno": 29,
+        "nombre": " Mateo",
+        "apellidos1": " Pastor",
+        "apellidos2": " Nieto",
+        "grupo": "SMR",
+        "fecha_nacimiento": "23/02/1998"
+    }, {
+        "id_Alumno": 30,
+        "nombre": " Rocío",
+        "apellidos1": " Ramos",
+        "apellidos2": " Casado",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "12/01/1982"
+    }, {
+        "id_Alumno": 31,
+        "nombre": " Valentina",
+        "apellidos1": " Durán",
+        "apellidos2": " Lozano",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "24/07/1990"
+    }, {
+        "id_Alumno": 32,
+        "nombre": " Ainara",
+        "apellidos1": " Reyes",
+        "apellidos2": " Cano",
+        "grupo": "DAM",
+        "fecha_nacimiento": "07/07/1984"
+    }, {
+        "id_Alumno": 33,
+        "nombre": " Laia",
+        "apellidos1": " Flores",
+        "apellidos2": " Gil",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "11/11/1984"
+    }, {
+        "id_Alumno": 34,
+        "nombre": " Rubén",
+        "apellidos1": " Romero",
+        "apellidos2": " Peña",
+        "grupo": "SMR",
+        "fecha_nacimiento": "08/05/1989"
+    }, {
+        "id_Alumno": 35,
+        "nombre": " Adrián",
+        "apellidos1": " Álvarez",
+        "apellidos2": " Reyes",
+        "grupo": "SMR",
+        "fecha_nacimiento": "16/07/1986"
+    }, {
+        "id_Alumno": 36,
+        "nombre": " Guillermo",
+        "apellidos1": " Ramírez",
+        "apellidos2": " Vázquez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "16/05/1992"
+    }, {
+        "id_Alumno": 37,
+        "nombre": " Leire",
+        "apellidos1": " Alonso",
+        "apellidos2": " Blanco",
+        "grupo": "DAM",
+        "fecha_nacimiento": "22/05/1994"
+    }, {
+        "id_Alumno": 38,
+        "nombre": " Mario",
+        "apellidos1": " Iglesias",
+        "apellidos2": " Benítez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "19/01/1989"
+    }, {
+        "id_Alumno": 39,
+        "nombre": " Álvaro",
+        "apellidos1": " Fernández",
+        "apellidos2": " Soto",
+        "grupo": "SMR",
+        "fecha_nacimiento": "30/03/1994"
+    }, {
+        "id_Alumno": 40,
+        "nombre": " Irene",
+        "apellidos1": " Esteban",
+        "apellidos2": " Hidalgo",
+        "grupo": "DAM",
+        "fecha_nacimiento": "27/11/1989"
+    }, {
+        "id_Alumno": 41,
+        "nombre": " Clara",
+        "apellidos1": " Herrero",
+        "apellidos2": " Iglesias",
+        "grupo": "DAM",
+        "fecha_nacimiento": "28/09/1991"
+    }, {
+        "id_Alumno": 42,
+        "nombre": " Héctor",
+        "apellidos1": " Bravo",
+        "apellidos2": " Rodríguez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "15/06/1992"
+    }, {
+        "id_Alumno": 43,
+        "nombre": " Triana",
+        "apellidos1": " Ortiz",
+        "apellidos2": " Caballero",
+        "grupo": "SMR",
+        "fecha_nacimiento": "22/04/1999"
+    }, {
+        "id_Alumno": 44,
+        "nombre": " Javier",
+        "apellidos1": " Herrero",
+        "apellidos2": " Gallardo",
+        "grupo": "SMR",
+        "fecha_nacimiento": "03/02/1982"
+    }, {
+        "id_Alumno": 45,
+        "nombre": " Aaron",
+        "apellidos1": " Parra",
+        "apellidos2": " Rojas",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "07/06/1985"
+    }, {
+        "id_Alumno": 46,
+        "nombre": " Marc",
+        "apellidos1": " Velasco",
+        "apellidos2": " Vicente",
+        "grupo": "SMR",
+        "fecha_nacimiento": "29/10/1993"
+    }, {
+        "id_Alumno": 47,
+        "nombre": " Carla",
+        "apellidos1": " Vidal",
+        "apellidos2": " Soto",
+        "grupo": "SMR",
+        "fecha_nacimiento": "17/01/1985"
+    }, {
+        "id_Alumno": 48,
+        "nombre": " Samuel",
+        "apellidos1": " Núñez",
+        "apellidos2": " Prieto",
+        "grupo": "DAM",
+        "fecha_nacimiento": "05/12/1998"
+    }, {
+        "id_Alumno": 49,
+        "nombre": " Aitana",
+        "apellidos1": " Sáez",
+        "apellidos2": " Arias",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "15/03/1985"
+    }, {
+        "id_Alumno": 50,
+        "nombre": " Pablo",
+        "apellidos1": " Gallego",
+        "apellidos2": " Garrido",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "16/09/1982"
+    }, {
+        "id_Alumno": 51,
+        "nombre": " Lucas",
+        "apellidos1": " Lorenzo",
+        "apellidos2": " Benítez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "17/01/1984"
+    }, {
+        "id_Alumno": 52,
+        "nombre": " Carmen",
+        "apellidos1": " Serrano",
+        "apellidos2": " Soto",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "12/09/1985"
+    }, {
+        "id_Alumno": 53,
+        "nombre": " Daniela",
+        "apellidos1": " Carmona",
+        "apellidos2": " López",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "05/10/1988"
+    }, {
+        "id_Alumno": 54,
+        "nombre": " Olivia",
+        "apellidos1": " Esteban",
+        "apellidos2": " Ramírez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "31/07/1980"
+    }, {
+        "id_Alumno": 55,
+        "nombre": " Sofía",
+        "apellidos1": " Vega",
+        "apellidos2": " Benítez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "10/12/1983"
+    }, {
+        "id_Alumno": 56,
+        "nombre": " Mía",
+        "apellidos1": " Sáez",
+        "apellidos2": " Méndez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "10/06/1990"
+    }, {
+        "id_Alumno": 57,
+        "nombre": " Jorge",
+        "apellidos1": " Molina",
+        "apellidos2": " Torres",
+        "grupo": "DAM",
+        "fecha_nacimiento": "18/11/1992"
+    }, {
+        "id_Alumno": 58,
+        "nombre": " Darío",
+        "apellidos1": " Hernández",
+        "apellidos2": " Navarro",
+        "grupo": "DAM",
+        "fecha_nacimiento": "30/07/1996"
+    }, {
+        "id_Alumno": 59,
+        "nombre": " Iker",
+        "apellidos1": " Díaz",
+        "apellidos2": " Rojas",
+        "grupo": "SMR",
+        "fecha_nacimiento": "13/12/1990"
+    }, {
+        "id_Alumno": 60,
+        "nombre": " Julia",
+        "apellidos1": " Soler",
+        "apellidos2": " Arias",
+        "grupo": "DAM",
+        "fecha_nacimiento": "15/01/1995"
+    }, {
+        "id_Alumno": 61,
+        "nombre": " Vega",
+        "apellidos1": " Rojas",
+        "apellidos2": " Montero",
+        "grupo": "SMR",
+        "fecha_nacimiento": "13/07/1997"
+    }, {
+        "id_Alumno": 62,
+        "nombre": " Alex",
+        "apellidos1": " Gil",
+        "apellidos2": " Román",
+        "grupo": "DAM",
+        "fecha_nacimiento": "30/06/1980"
+    }, {
+        "id_Alumno": 63,
+        "nombre": " David",
+        "apellidos1": " Blanco",
+        "apellidos2": " Benítez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "12/06/1991"
+    }, {
+        "id_Alumno": 64,
+        "nombre": " Dylan",
+        "apellidos1": " Núñez",
+        "apellidos2": " Herrero",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "06/08/1996"
+    }, {
+        "id_Alumno": 65,
+        "nombre": " Nicolás",
+        "apellidos1": " Castro",
+        "apellidos2": " Cortes",
+        "grupo": "DAM",
+        "fecha_nacimiento": "30/03/1989"
+    }, {
+        "id_Alumno": 66,
+        "nombre": " Claudia",
+        "apellidos1": " Iglesias",
+        "apellidos2": " Vicente",
+        "grupo": "DAM",
+        "fecha_nacimiento": "26/06/1996"
+    }, {
+        "id_Alumno": 67,
+        "nombre": " Ángel",
+        "apellidos1": " Delgado",
+        "apellidos2": "García",
+        "grupo": "DAM",
+        "fecha_nacimiento": "19/11/1991"
+    }, {
+        "id_Alumno": 68,
+        "nombre": " Marco",
+        "apellidos1": " Moreno",
+        "apellidos2": " Ramos",
+        "grupo": "DAM",
+        "fecha_nacimiento": "14/01/1993"
+    }, {
+        "id_Alumno": 69,
+        "nombre": " Ainhoa",
+        "apellidos1": " Campos",
+        "apellidos2": " Lorenzo",
+        "grupo": "DAM",
+        "fecha_nacimiento": "21/03/1988"
+    }, {
+        "id_Alumno": 70,
+        "nombre": " Martín",
+        "apellidos1": " Calvo",
+        "apellidos2": " Martínez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "22/06/1999"
+    }, {
+        "id_Alumno": 71,
+        "nombre": " Emma",
+        "apellidos1": " Vicente",
+        "apellidos2": " Marín",
+        "grupo": "DAM",
+        "fecha_nacimiento": "22/08/1994"
+    }, {
+        "id_Alumno": 72,
+        "nombre": " Carlos",
+        "apellidos1": " Medina",
+        "apellidos2": " Sánchez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "18/05/1987"
+    }, {
+        "id_Alumno": 73,
+        "nombre": " Antonio",
+        "apellidos1": " Vega",
+        "apellidos2": " Soto",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "03/12/1983"
+    }, {
+        "id_Alumno": 74,
+        "nombre": " Alba",
+        "apellidos1": " León",
+        "apellidos2": " Gallardo",
+        "grupo": "DAM",
+        "fecha_nacimiento": "07/11/1986"
+    }, {
+        "id_Alumno": 75,
+        "nombre": " Jesús",
+        "apellidos1": " Ortiz",
+        "apellidos2": " Castro",
+        "grupo": "DAM",
+        "fecha_nacimiento": "13/08/1991"
+    }, {
+        "id_Alumno": 76,
+        "nombre": " Adriana",
+        "apellidos1": " Rodríguez",
+        "apellidos2": " Esteban",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "18/12/1984"
+    }, {
+        "id_Alumno": 77,
+        "nombre": " Aitor",
+        "apellidos1": " Muñoz",
+        "apellidos2": " Rodríguez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "24/08/1994"
+    }, {
+        "id_Alumno": 78,
+        "nombre": " Martina",
+        "apellidos1": " Lozano",
+        "apellidos2": " Jiménez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "05/11/1983"
+    }, {
+        "id_Alumno": 79,
+        "nombre": " Elsa",
+        "apellidos1": " Soler",
+        "apellidos2": " Martín",
+        "grupo": "SMR",
+        "fecha_nacimiento": "05/11/1995"
+    }, {
+        "id_Alumno": 80,
+        "nombre": " Elena",
+        "apellidos1": " Peña",
+        "apellidos2": " Garrido",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "30/10/1995"
+    }, {
+        "id_Alumno": 81,
+        "nombre": " Marina",
+        "apellidos1": " Santiago",
+        "apellidos2": " Gómez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "25/01/1981"
+    }, {
+        "id_Alumno": 82,
+        "nombre": " Iván",
+        "apellidos1": " Bravo",
+        "apellidos2": " Vicente",
+        "grupo": "DAM",
+        "fecha_nacimiento": "23/03/1997"
+    }, {
+        "id_Alumno": 83,
+        "nombre": " Eric",
+        "apellidos1": " Rodríguez",
+        "apellidos2": " Pérez",
+        "grupo": "SMR",
+        "fecha_nacimiento": "02/12/1986"
+    }, {
+        "id_Alumno": 84,
+        "nombre": " Gabriel",
+        "apellidos1": " Montero",
+        "apellidos2": " Crespo",
+        "grupo": "DAM",
+        "fecha_nacimiento": "09/03/1999"
+    }, {
+        "id_Alumno": 85,
+        "nombre": " Nerea",
+        "apellidos1": " Velasco",
+        "apellidos2": " Marín",
+        "grupo": "DAM",
+        "fecha_nacimiento": "07/03/1990"
+    }, {
+        "id_Alumno": 86,
+        "nombre": "Lucía",
+        "apellidos1": " Gil",
+        "apellidos2": " Muñoz",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "26/01/1988"
+    }, {
+        "id_Alumno": 87,
+        "nombre": " Marcos",
+        "apellidos1": " Cano",
+        "apellidos2": " Ortega",
+        "grupo": "DAM",
+        "fecha_nacimiento": "10/09/1995"
+    }, {
+        "id_Alumno": 88,
+        "nombre": " Bruno",
+        "apellidos1": " Lozano",
+        "apellidos2": " Guerrero",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "24/01/1994"
+    }, {
+        "id_Alumno": 89,
+        "nombre": " Lola",
+        "apellidos1": " Campos",
+        "apellidos2": " Fernández",
+        "grupo": "SMR",
+        "fecha_nacimiento": "29/10/1987"
+    }, {
+        "id_Alumno": 90,
+        "nombre": " José",
+        "apellidos1": " Ortega",
+        "apellidos2": "García",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "27/08/1985"
+    }, {
+        "id_Alumno": 91,
+        "nombre": " Valeria",
+        "apellidos1": " Durán",
+        "apellidos2": " Méndez",
+        "grupo": "DAM",
+        "fecha_nacimiento": "18/05/1985"
+    }, {
+        "id_Alumno": 92,
+        "nombre": " Laura",
+        "apellidos1": " Calvo",
+        "apellidos2": " Hidalgo",
+        "grupo": "DAM",
+        "fecha_nacimiento": "10/09/1985"
+    }, {
+        "id_Alumno": 93,
+        "nombre": " Jimena",
+        "apellidos1": " Carrasco",
+        "apellidos2": " Benítez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "15/06/1988"
+    }, {
+        "id_Alumno": 94,
+        "nombre": " Marta",
+        "apellidos1": " Reyes",
+        "apellidos2": " Iglesias",
+        "grupo": "SMR",
+        "fecha_nacimiento": "17/06/1983"
+    }, {
+        "id_Alumno": 95,
+        "nombre": " Alicia",
+        "apellidos1": " Díez",
+        "apellidos2": " Peña",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "13/05/1996"
+    }, {
+        "id_Alumno": 96,
+        "nombre": " María",
+        "apellidos1": " Gallego",
+        "apellidos2": " Sáez",
+        "grupo": "ASIR",
+        "fecha_nacimiento": "05/05/1991"
+    }, {
+        "id_Alumno": 97,
+        "nombre": " Chloe",
+        "apellidos1": " Gómez",
+        "apellidos2": " Román",
+        "grupo": "DAM",
+        "fecha_nacimiento": "30/10/1980"
+    }, {
+        "id_Alumno": 98,
+        "nombre": " Nora",
+        "apellidos1": " Peña",
+        "apellidos2": " Moreno",
+        "grupo": "DAM",
+        "fecha_nacimiento": "28/07/1999"
+    }, {
+        "id_Alumno": 99,
+        "nombre": " Ana",
+        "apellidos1": " Arias",
+        "apellidos2": " Pascual",
+        "grupo": "SMR",
+        "fecha_nacimiento": "26/07/1992"
+    }, {
+        "id_Alumno": 100,
+        "nombre": " Sara",
+        "apellidos1": " Navarro",
+        "apellidos2": " Castillo",
+        "grupo": "SMR",
+        "fecha_nacimiento": "31/12/1992"
+    }]
